@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SunidhiSinha
 - 👀 I’m interested in learning new stuffs.
-- 🌱 I’m currently learning Factory Automation.
+- 🌱 I've learned, DSA, Java programming, Web Development and Factory Automation.
 - 💞️ I’ve done my internship at Siemens COE.
 - 📫 How to reach me -
 CodeChef- @sunidhi15 ||
